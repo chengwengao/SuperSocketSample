@@ -1,0 +1,17 @@
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\superScoketSample.exe.config
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\Config\log4net.config
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\superScoketSample.exe
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\superScoketSample.pdb
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\log4net.dll
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\SuperSocket.Common.dll
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\SuperSocket.SocketBase.dll
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\SuperSocket.SocketEngine.dll
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\SuperSocket.Common.pdb
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\SuperSocket.Common.xml
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\SuperSocket.SocketBase.pdb
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\SuperSocket.SocketBase.xml
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\SuperSocket.SocketEngine.pdb
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\bin\Debug\SuperSocket.SocketEngine.xml
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\obj\Debug\superScoketSample.csprojResolveAssemblyReference.cache
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\obj\Debug\superScoketSample.exe
+E:\基础服务平台\TCP\superScoketSample\superScoketSample\obj\Debug\superScoketSample.pdb

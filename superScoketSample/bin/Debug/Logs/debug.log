@@ -1,0 +1,13 @@
+﻿2017-08-24 13:19:47,742 [7872] DEBUG AppServer-21083178 - Listener (0.0.0.0:2012) was started
+2017-08-24 13:19:51,590 [7872] DEBUG AppServer-21083178 - Listener (0.0.0.0:2012) was stoppped
+2017-08-24 13:24:55,522 [9772] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
+2017-08-24 13:25:03,459 [9772] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was stoppped
+2017-08-24 13:27:25,921 [4444] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
+2017-08-24 13:30:37,071 [8960] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
+2017-08-24 13:31:53,268 [7384] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
+2017-08-24 13:33:21,466 [6220] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
+2017-08-24 13:40:58,251 [4580] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
+2017-08-24 13:45:20,656 [7900] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
+2017-08-24 13:52:02,556 [6360] DEBUG AppServer-21083178 - The command ADD(superScoketSample.ADD, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 13:52:02,562 [6360] DEBUG AppServer-21083178 - The command MULT(superScoketSample.MULT, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 13:52:02,575 [6360] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
