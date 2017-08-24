@@ -1,5 +1,6 @@
 ﻿using SuperSocket.SocketBase;
 using SuperSocket.SocketBase.Command;
+using SuperSocket.SocketBase.Config;
 using SuperSocket.SocketBase.Protocol;
 using System;
 using System.Collections.Generic;
@@ -125,4 +126,15 @@ namespace superScoketSample
             session.Send(result.ToString());
         }
     }
+
+    //Command的用法,需要移除请求处理方法的注册，因为它和命令不能同时被支持
+    //Remove this line:appServer.NewRequestReceived += new RequestHandler<AppSession, StringRequestInfo>(appServer_NewRequestReceived);
+    public class ECHO : CommandBase<AppSession, StringRequestInfo>
+    {
+        public override void ExecuteCommand(AppSession session, StringRequestInfo requestInfo)
+        {
+            session.Send(requestInfo.Body);
+        }
+    }
+
 }

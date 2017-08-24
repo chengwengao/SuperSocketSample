@@ -45,3 +45,25 @@ This session was closed for SocketError!
 A new session connected!
 2017-08-24 13:59:55,993 [8532] INFO  AppServer-21083178 - Session: c1fd7949-e93e-4d7a-b81b-c7d1b3191dea/127.0.0.1:4936
 This session was closed for SocketError!
+2017-08-24 15:23:09,804 [6136] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2017-08-24 15:23:18,664 [5900] INFO  AppServer-21083178 - Session: 305a325a-f0ac-4144-a022-d8b22fe9a4d3/127.0.0.1:6450
+A new session connected!
+2017-08-24 15:23:27,472 [10288] INFO  AppServer-21083178 - Session: 305a325a-f0ac-4144-a022-d8b22fe9a4d3/127.0.0.1:6450
+This session was closed for ClientClosing!
+2017-08-24 15:44:18,009 [1100] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2017-08-24 15:44:20,777 [6376] INFO  AppServer-21083178 - Session: fd729337-0d65-448c-a64c-0b6074d95ad4/127.0.0.1:1874
+A new session connected!
+2017-08-24 15:46:41,107 [7020] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2017-08-24 15:46:49,205 [1076] INFO  AppServer-21083178 - Session: 7f26672c-4439-4ae6-82d9-efdf8a1d5fc9/127.0.0.1:1955
+A new session connected!
+2017-08-24 15:47:11,477 [1076] INFO  AppServer-21083178 - Session: 8793de17-7960-4c29-82b3-cd186f9d812e/127.0.0.1:1958
+A new session connected!
+2017-08-24 16:02:24,549 [5156] INFO  AppServer-21083178 - Session: 8793de17-7960-4c29-82b3-cd186f9d812e/127.0.0.1:1958
+This session was closed for ClientClosing!
+2017-08-24 16:02:25,672 [904] INFO  AppServer-21083178 - Session: 7f26672c-4439-4ae6-82d9-efdf8a1d5fc9/127.0.0.1:1955
+This session was closed for ClientClosing!
+2017-08-24 17:06:29,703 [824] INFO  AppServer-21083178 - The server instance AppServer-21083178 has been started!
+2017-08-24 17:06:39,341 [6208] INFO  AppServer-21083178 - Session: 487e7752-c8ba-4c17-9c43-dffd27bfed1c/127.0.0.1:2350
+A new session connected!
+2017-08-24 17:06:45,944 [7656] INFO  AppServer-21083178 - Session: 487e7752-c8ba-4c17-9c43-dffd27bfed1c/127.0.0.1:2350
+This session was closed for ClientClosing!

@@ -11,3 +11,18 @@
 2017-08-24 13:52:02,556 [6360] DEBUG AppServer-21083178 - The command ADD(superScoketSample.ADD, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
 2017-08-24 13:52:02,562 [6360] DEBUG AppServer-21083178 - The command MULT(superScoketSample.MULT, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
 2017-08-24 13:52:02,575 [6360] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
+2017-08-24 15:23:09,788 [6136] DEBUG AppServer-21083178 - The command ADD(superScoketSample.ADD, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 15:23:09,804 [6136] DEBUG AppServer-21083178 - The command MULT(superScoketSample.MULT, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 15:23:09,804 [6136] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
+2017-08-24 15:44:17,993 [1100] DEBUG AppServer-21083178 - The command ADD(superScoketSample.ADD, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 15:44:17,993 [1100] DEBUG AppServer-21083178 - The command MULT(superScoketSample.MULT, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 15:44:17,993 [1100] DEBUG AppServer-21083178 - The command ECHO(superScoketSample.ECHO, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 15:44:18,009 [1100] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
+2017-08-24 15:46:41,082 [7020] DEBUG AppServer-21083178 - The command ADD(superScoketSample.ADD, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 15:46:41,082 [7020] DEBUG AppServer-21083178 - The command MULT(superScoketSample.MULT, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 15:46:41,082 [7020] DEBUG AppServer-21083178 - The command ECHO(superScoketSample.ECHO, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 15:46:41,107 [7020] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
+2017-08-24 17:06:29,682 [824] DEBUG AppServer-21083178 - The command ADD(superScoketSample.ADD, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 17:06:29,689 [824] DEBUG AppServer-21083178 - The command MULT(superScoketSample.MULT, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 17:06:29,689 [824] DEBUG AppServer-21083178 - The command ECHO(superScoketSample.ECHO, superScoketSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-24 17:06:29,703 [824] DEBUG AppServer-21083178 - Listener (0.0.0.0:10002) was started
